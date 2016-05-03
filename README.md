@@ -1,8 +1,16 @@
+# Comandos inseridos para o primeiro PUSH
+#### Segundo cabeçalho
+<br> 
 $ mkdir aulaGIT
+<br>
 $ cd aulaGIT/
+<br>
 $ git init
+<br>
 $ touch README.md
+<br>
 $ git status
+<br>
 No ramo master
 
 Submissão inicial.
