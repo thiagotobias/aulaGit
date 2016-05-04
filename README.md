@@ -49,3 +49,12 @@ $ git remote add origin https://github.com/thiagotobias/aulaGit.git
 <br>
 #### Efetuando o primeiro push
 $ git push origin master
+
+# Comandos Tag / Releases
+#### Ciando TAG
+$ git tag 0.1.0
+<br>
+#### Listando todas as Tags
+$ git tag -l
+<br>
+#### Subindo TAG para o GITHUB
