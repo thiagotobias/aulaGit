@@ -58,3 +58,4 @@ $ git tag 0.1.0
 $ git tag -l
 <br>
 #### Subindo TAG para o GITHUB
+$git push origin master --tags
